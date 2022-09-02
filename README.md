@@ -1,9 +1,9 @@
-# IF A PARAMETER IS IN SQUARE BRACKETS `[param]`, THAT MEANS IT CAN NOT HAVE SPACES OR SEMICOLONS IN IT
-# IF A PARAMETERS ARE IN CURLY BRACKETS `{1, 2, 3, 4}`, THAT MEANS YOU CAN CHOOSE ONE OF THE ITEMS IN THE LIST FOR THAT PARAMETER
-# IF A FUNCTION STARTS WITH 2 HASH-TAGS, THAT MEANS IT IS A MULTILINE FUNCTION (NO SEMICOLONS!)
+- IF A PARAMETER IS IN SQUARE BRACKETS `[param]`, THAT MEANS IT CAN NOT HAVE SPACES OR SEMICOLONS IN IT
+- IF A PARAMETERS ARE IN CURLY BRACKETS `{1, 2, 3, 4}`, THAT MEANS YOU CAN CHOOSE ONE OF THE ITEMS IN THE LIST FOR THAT PARAMETER
+- IF A FUNCTION STARTS WITH 2 HASH-TAGS, THAT MEANS IT IS A MULTILINE FUNCTION (NO SEMICOLONS!)
 
 # PRINT [data];
-- ADDED IN V0.0.2
+> ADDED IN V0.0.2
 
 * Javascript Code:
     `console.log(data);`
@@ -15,7 +15,7 @@
     `END`
 
 # ERROR [data];
-- ADDED IN V0.0.3
+> ADDED IN V0.0.3
 
 * Javascript Code:
     `console.error(data);`
@@ -27,7 +27,7 @@
     `END`
 
 # WARN [data];
-- ADDED IN V0.0.3
+> ADDED IN V0.0.3
 
 * Javascript Code:
     `console.warn(data);`
@@ -39,7 +39,7 @@
     `END`
 
 # {CREATE, EDIT} VARIABLE [name] IS [data];
->>> - >>> - >>> ADDED IN BIG UPDATE V0.0.4
+> ADDED IN BIG UPDATE V0.0.4
 
 * To use:
     1. type a selection of `CREATE`, or `EDIT`, then a space:
@@ -55,7 +55,7 @@
     `END`
 
 # PRINT_VAR [variable_name];
->>> - >>> - >>> ADDED IN BIG UPDATE V0.0.4
+> ADDED IN BIG UPDATE V0.0.4
 
 * To use:
     1. type `PRINT_VAR`, and a space
@@ -68,7 +68,7 @@
     `END`
 
 ## IF [case] THEN: `Code here`
-- COMING SOON
+> ADDED IN BIG UPDATE V0.0.4
 
   * To use:
     1. type `IF`, and a space
